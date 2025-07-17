@@ -55,4 +55,3 @@ Banks receive thousands of loan applications daily. Manual verification takes ti
 
 ---
 
-## 📂 Project Structure
